@@ -182,7 +182,68 @@ $username = $_SESSION['user'];
       Bas ek jaan hai Jab ji chahe maang lo..</p>
     </div>
 
+    <div class="box">
+      <h3>Faiz Ahmed Faiz</h3>
+      <p>Mohabbat sirf khayalon ka naam nahi hoti<br>
+         Zulm ke shehr mein bhi ek roshni hoti<br>
+        Jab sach bolne ki himmat saath aa jaye<br>
+        Tab ishq bhi ek inquilab hoti<br>
+      </p>
+    </div>
     
+    <div class="box">
+  <h3>Ahmed Faraz — Bewafai or Dard</h3>
+  <p>
+    Usne chhodna tha toh keh deta<br>
+    Yun umeed dekar kyun chala gaya<br>
+    Faraz, mohabbat ka dukh yeh hai<br>
+    Jo apna tha, wahi sabse zyada rula gaya
+  </p>
+</div>
+
+<div class="box">
+  <h3>Parveen Shakir — Khamosh Mohabbat</h3>
+  <p>
+    Usse paane ki zid bhi na rahi<br>
+    Usse khone ka gham bhi na raha<br>
+    Parveen si baat bas itni hai<br>
+    Jo kabhi apna tha, ab woh bhi na raha
+  </p>
+</div>
+
+<div class="box">
+  <h3>Jaun Elia — Andar Ka Khaali Pan</h3>
+  <p>
+    Main hans raha hoon sabke saamne<br>
+    Par andar kuch bhi zinda nahi<br>
+    Jo toot gaya tha kab ka Jaun<br>
+    Uska dard ab cheekhta bhi nahi
+  </p>
+</div>
+
+<div class="box">
+  <h3>Jaun Elia — Be-Hissi</h3>
+  <p>
+    Ab dard bhi mehsoos nahi hota<br>
+    Shayad dil ne haar maan li hai<br>
+    Jo kabhi cheekhta tha raat bhar<br>
+    Aaj usne khamoshi pehchaan li hai
+  </p>
+</div>
+
+
+<div class="box">
+  <h3>Parveen Shakir — Sakht Khamoshi</h3>
+  <p>
+    Ab shikayat bhi bekaar lagti hai<br>
+    Kyunki sunne wala koi nahi<br>
+    Parveen, khamoshi seekh li humne<br>
+    Kyunki samjhaane ki himmat rahi nahi
+  </p>
+</div>
+
+
+
     <div id="dailyQuote"></div>
 
    
